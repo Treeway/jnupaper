@@ -15,3 +15,10 @@ C:\Users\Administrator\Desktop\Defence\Defence\obj\Debug\Defence.csproj.ResolveC
 C:\Users\Administrator\Desktop\Defence\Defence\obj\Debug\Defence.dll
 C:\Users\Administrator\Desktop\Defence\Defence\obj\Debug\Defence.pdb
 C:\Users\Administrator\Desktop\Defence\Defence\obj\Debug\Defence.csprojResolveAssemblyReference.cache
+E:\Workplace\Defence\Defence\bin\Defence.dll
+E:\Workplace\Defence\Defence\bin\Defence.pdb
+E:\Workplace\Defence\Defence\obj\Debug\Defence.csprojResolveAssemblyReference.cache
+E:\Workplace\Defence\Defence\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Workplace\Defence\Defence\obj\Debug\Defence.csproj.ResolveComReference.cache
+E:\Workplace\Defence\Defence\obj\Debug\Defence.dll
+E:\Workplace\Defence\Defence\obj\Debug\Defence.pdb
