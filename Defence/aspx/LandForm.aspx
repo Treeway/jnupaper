@@ -67,7 +67,7 @@
 <body>
     <form id="form1" runat="server">
     <div style="position: absolute; top: 0px; left: 100px; height: 732px; margin-left: 2px; width: 1050px; "  class="backgound">
-        <asp:Image ID="m_topImage" runat="server" ImageUrl="~\images\top.png" BorderStyle="None" Height="166px" Width="1050px"/><br />
+        <asp:Image ID="m_topImage" runat="server" ImageUrl="~\images\top.jpg" BorderStyle="None" Height="166px" Width="1050px"/><br />
         <hr/>
         <br />
         <br />
