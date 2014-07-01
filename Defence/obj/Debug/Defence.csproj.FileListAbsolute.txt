@@ -1,0 +1,17 @@
+E:\visual studio 2012\Projects\Defence\Defence\bin\Defence.dll
+E:\visual studio 2012\Projects\Defence\Defence\bin\Defence.pdb
+E:\visual studio 2012\Projects\Defence\Defence\obj\Debug\Defence.csprojResolveAssemblyReference.cache
+E:\visual studio 2012\Projects\Defence\Defence\obj\Debug\Defence.dll
+E:\visual studio 2012\Projects\Defence\Defence\obj\Debug\Defence.pdb
+H:\web\Defence\Defence\bin\Defence.dll
+H:\web\Defence\Defence\bin\Defence.pdb
+H:\web\Defence\Defence\obj\Debug\Defence.csprojResolveAssemblyReference.cache
+H:\web\Defence\Defence\obj\Debug\Defence.dll
+H:\web\Defence\Defence\obj\Debug\Defence.pdb
+C:\Users\Administrator\Desktop\Defence\Defence\bin\Defence.dll
+C:\Users\Administrator\Desktop\Defence\Defence\bin\Defence.pdb
+C:\Users\Administrator\Desktop\Defence\Defence\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrator\Desktop\Defence\Defence\obj\Debug\Defence.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Defence\Defence\obj\Debug\Defence.dll
+C:\Users\Administrator\Desktop\Defence\Defence\obj\Debug\Defence.pdb
+C:\Users\Administrator\Desktop\Defence\Defence\obj\Debug\Defence.csprojResolveAssemblyReference.cache
